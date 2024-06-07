@@ -1,2 +1,3 @@
 Format-Patch 
-Remote
+Remote 
+and then revision of reset , revert , merge , rebase .
